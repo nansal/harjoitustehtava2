@@ -4,3 +4,4 @@
 - opettele kansion linkitys suoraan bashissa
 - Muista aina uuden muokkauksen jälkeen git add .!!!
 - Lisää aina origin kautta repo bashiin
+- ctrl + L puhdistaa terminaalin
