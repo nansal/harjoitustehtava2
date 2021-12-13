@@ -1,1 +1,3 @@
-lisätään repositoryyn
+- Kloonaa GitHub repository omalle koneellesi
+- git add harjoitus.md
+- 
