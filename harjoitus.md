@@ -2,3 +2,4 @@
 - git add harjoitus.md
 - tarkista aina välissä status
 - opettele kansion linkitys suoraan bashissa
+- Muista aina uuden muokkauksen jälkeen git add .!!!
