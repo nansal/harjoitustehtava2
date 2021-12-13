@@ -5,3 +5,4 @@
 - Muista aina uuden muokkauksen jälkeen git add .!!!
 - Lisää aina origin kautta repo bashiin
 - ctrl + L puhdistaa terminaalin
+- Huomasin nyt että poistin lisätyn repon koneeltani ja teen tätä väärään kansioon
