@@ -1,3 +1,4 @@
 - Kloonaa GitHub repository omalle koneellesi
 - git add harjoitus.md
-- 
+- tarkista aina välissä status
+- opettele kansion linkitys suoraan bashissa
