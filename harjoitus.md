@@ -3,3 +3,4 @@
 - tarkista aina välissä status
 - opettele kansion linkitys suoraan bashissa
 - Muista aina uuden muokkauksen jälkeen git add .!!!
+- Lisää aina origin kautta repo bashiin
